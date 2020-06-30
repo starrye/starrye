@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 刘卫正的博客</title>
+    <link>https://starrye.github.io/categories/</link>
+    <description>Recent content in Categories on 刘卫正的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议&lt;/a&gt;进行许可。</copyright>
+    <lastBuildDate>Mon, 29 Jun 2020 15:21:09 +0800</lastBuildDate>
+    
+	<atom:link href="https://starrye.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>leetcode</title>
+      <link>https://starrye.github.io/categories/leetcode/</link>
+      <pubDate>Mon, 29 Jun 2020 15:21:09 +0800</pubDate>
+      
+      <guid>https://starrye.github.io/categories/leetcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>动态规划</title>
+      <link>https://starrye.github.io/categories/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</link>
+      <pubDate>Mon, 29 Jun 2020 15:21:09 +0800</pubDate>
+      
+      <guid>https://starrye.github.io/categories/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stack</title>
+      <link>https://starrye.github.io/categories/stack/</link>
+      <pubDate>Mon, 29 Jun 2020 15:00:00 +0800</pubDate>
+      
+      <guid>https://starrye.github.io/categories/stack/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
