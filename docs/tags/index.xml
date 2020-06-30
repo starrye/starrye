@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 刘卫正的博客</title>
-    <link>https://starrye.github.io/tags/</link>
+    <link>https://starrye.github.io/blog/tags/</link>
     <description>Recent content in Tags on 刘卫正的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议&lt;/a&gt;进行许可。</copyright>
     <lastBuildDate>Mon, 29 Jun 2020 15:21:09 +0800</lastBuildDate>
     
-	<atom:link href="https://starrye.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://starrye.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>leetcode</title>
-      <link>https://starrye.github.io/tags/leetcode/</link>
+      <link>https://starrye.github.io/blog/tags/leetcode/</link>
       <pubDate>Mon, 29 Jun 2020 15:21:09 +0800</pubDate>
       
-      <guid>https://starrye.github.io/tags/leetcode/</guid>
+      <guid>https://starrye.github.io/blog/tags/leetcode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>动态规划</title>
-      <link>https://starrye.github.io/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</link>
+      <link>https://starrye.github.io/blog/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</link>
       <pubDate>Mon, 29 Jun 2020 15:21:09 +0800</pubDate>
       
-      <guid>https://starrye.github.io/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</guid>
+      <guid>https://starrye.github.io/blog/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stack</title>
-      <link>https://starrye.github.io/tags/stack/</link>
+      <link>https://starrye.github.io/blog/tags/stack/</link>
       <pubDate>Mon, 29 Jun 2020 15:00:00 +0800</pubDate>
       
-      <guid>https://starrye.github.io/tags/stack/</guid>
+      <guid>https://starrye.github.io/blog/tags/stack/</guid>
       <description></description>
     </item>
     

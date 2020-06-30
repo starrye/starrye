@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>stack on 刘卫正的博客</title>
-    <link>https://starrye.github.io/categories/stack/</link>
+    <link>https://starrye.github.io/blog/categories/stack/</link>
     <description>Recent content in stack on 刘卫正的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议&lt;/a&gt;进行许可。</copyright>
     <lastBuildDate>Mon, 29 Jun 2020 15:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://starrye.github.io/categories/stack/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://starrye.github.io/blog/categories/stack/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>1381. 设计一个支持增量操作的栈</title>
-      <link>https://starrye.github.io/posts/1381.%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E6%94%AF%E6%8C%81%E5%A2%9E%E9%87%8F%E6%93%8D%E4%BD%9C%E7%9A%84%E6%A0%88/</link>
+      <link>https://starrye.github.io/blog/posts/1381.%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E6%94%AF%E6%8C%81%E5%A2%9E%E9%87%8F%E6%93%8D%E4%BD%9C%E7%9A%84%E6%A0%88/</link>
       <pubDate>Mon, 29 Jun 2020 15:00:00 +0800</pubDate>
       
-      <guid>https://starrye.github.io/posts/1381.%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E6%94%AF%E6%8C%81%E5%A2%9E%E9%87%8F%E6%93%8D%E4%BD%9C%E7%9A%84%E6%A0%88/</guid>
+      <guid>https://starrye.github.io/blog/posts/1381.%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E6%94%AF%E6%8C%81%E5%A2%9E%E9%87%8F%E6%93%8D%E4%BD%9C%E7%9A%84%E6%A0%88/</guid>
       <description>&lt;p&gt;一步一步对比！将常规做法转为累加操作&lt;/p&gt;</description>
     </item>
     
