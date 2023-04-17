@@ -1,55 +1,40 @@
-baseURL = "https://starrye.github.io"
+baseURL = "https://www.starrye.com/"
 languageCode = "zh-Hans"
 defaultContentLanguage = "zh"
-title = "刘卫正的博客"
+title = "星光照耀"
 theme = "dream"
+
+# 每一页显示的文章数量
+paginate = 6
+
+# 这一项保持默认
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  archive = "archives"
+
+pygmentsOptions = "linenos=table"
+pygmentsCodefences = true
+pygmentsUseClasses = true
+pygmentsCodefencesGuessSyntax = true
 
 copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。'
 
 googleAnalytics = "UA-98295641-1"
 
-disqusShortname = "刘卫正"
+disqusShortname = "晚风"
 
 enableRobotsTXT = true
 
 hasCJKLanguage = true
 
-# https://gohugo.io/news/0.60.0-relnotes/
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
   [markup.highlight]
     style = "dracula"
-
-[params]
-  # background = "black"
-  backgroundImage = "/me/background.jpg"
-  linkColor = "seagreen"
-
-  author = "刘卫正"
-  description = "刘卫正的生活记录～"
-  avatar = "/me/yy.jpg"
-  motto = "无论未来会遇到谁,生活都是先从遇到自己开始的"
-  
-  email = "helloliuwz@gmail.com"
-  twitter = ""
-  facebook = ""
-  instagram = ""
-  linkedin = ""
-  github = "starrye"
-  stackoverflow = ""
-  codepen = ""
-
-  siteStartYear = 2020
-
-  favicon = "/favicon.ico"
-
-  # dark mode
-  darkLinkColor = "darkseagreen"
-  darkNav = true
-  dark404 = true
-  [[menu.main]]
+[[menu.main]]
     weight = 1
     identifier = "首页"
     name = "首页"
@@ -65,6 +50,34 @@ hasCJKLanguage = true
     weight = 3
     identifier = "标签"
     name = "标签"
+
+[params]
+  backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
+
+  author = "晚风"
+  description = "晚风的生活记录～"
+  avatar = "/me/yy.jpg"
+  motto = "变废为宝"
+  moreMeta = true
+  email = "helloliuwz@gmail.com"
+  twitter = ""
+  facebook = ""
+  instagram = ""
+  linkedin = ""
+  github = "starrye"
+  stackoverflow = ""
+  codepen = ""
+  toc = true
+  siteStartYear = 2020
+
+  favicon = "/favicon.ico"
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true
+  dark404 = true
+
   syntaxHighlighter = "highlight.js"
   sidebarBehavior = 2
   hierarchicalCategories = true
